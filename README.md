@@ -20,7 +20,7 @@ List of Implemented Features
 ### Screenshots of the System
 
 #### 1. Personal Profile Registration Form
-![Form Interface](images/registrationForm.png)
+![Form Interface](Assignment 2 - Jeremy Dawat Pengiran (2024276504)/images/registrationForm.png)
 
 #### 2. Stored Student Profiles Dashboard Table
 ![Database Table View](images/viewProfile.png)
